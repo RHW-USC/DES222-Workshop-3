@@ -1,4 +1,14 @@
 body{
-    color: red;
-    background-color: lightblue;
+    color: white;
+    background-color: darkslategray;
+}
+
+body > h1{
+    text-align: center;
+    width: auto;
+}
+
+body > p{
+    text-align: center;
+    width: auto;
 }
